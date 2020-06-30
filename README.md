@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Sreedhar Unnikrishnakurup
 
 I am working as a Post-doctoral fellow at the Indian Institute of Madras. As an Infrared Thermography NDT group lead, I work in the development of quantitative models and developing experimental schemes for utilizing infrared frequencies for flaw detection, imaging, and material characterization.
 
