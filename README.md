@@ -1,12 +1,6 @@
-## 
+## Sreedhar Unnikrishnakurup
 
-<html>
 
-  <title>Sreedhar Unnikrishnakurup</title>
-
-   <body>
-
-    <h1>
     I am working as a Post-doctoral fellow at the Indian Institute of Madras. As an Infrared Thermography NDT group lead, I work in the development of quantitative models and developing experimental schemes for utilizing infrared frequencies for flaw detection, imaging, and material characterization.
   
     I am also working towards building my first deep-tech venture Spectracops. I started doing this as Founder in Residence at Entrepreneur First, an incubator-cum-accelerator. We explored several interesting technological solutions, exploring the market, validating the technology, speaking to customers, and researching prototypes.
@@ -15,13 +9,7 @@
 
     My quantitative, data-driven approach to complex problems is guided by my diverse experience in a wide variety of science and engineering domains. I approach every challenge I take on with a collaborative, analytical, and pragmatic strategy and drive projects to successful completion.
 
-    </h1>
-
-    </body>
-
-      
-
-    </html>
+ 
 
 
 ### Support or Contact
