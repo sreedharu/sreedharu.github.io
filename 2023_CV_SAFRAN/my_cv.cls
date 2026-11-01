@@ -37,8 +37,10 @@
 \RequirePackage{tikzpagenodes}
 \usetikzlibrary{calc,positioning,backgrounds,matrix}
 \RequirePackage{bibentry}
-\RequirePackage{natbib}
+\RequirePackage[sort&compress,numbers]{natbib}
 \RequirePackage{multicol}
+\RequirePackage{amssymb}
+\RequirePackage{comment}
  %----------------------Page setup--------------------------------
 \geometry{
    paperwidth=216mm, paperheight=300mm,
@@ -68,13 +70,13 @@
 
 \vspace{.5em}
 
-{\large\bfseries Postdoctoral Fellow, Indian institute of Technology Madras}
+{\large\bfseries Scientist, Institute of Materials Research and Engineering}
 
 \vspace{.4em}
 
-{\footnotesize \faMapMarker \hspace{0.6em} \bfseries 11, 1st cross, RBI colony, 3rd Block, Jayanagar East, Bangalore, India} 
+{\footnotesize \faMapMarker \hspace{0.6em} \bfseries 2 Fusionopolis Way, 08-03 Innovis, Singapore 138634} 
 
-{\footnotesize \faEnvelope \hspace{0.3em} \bfseries sreedhar.aie@gmail.com}  \hspace{0.5em}   \faPhone \hspace{0.2em} {\footnotesize\bfseries +91-9074577823}
+{\footnotesize \faEnvelope \hspace{0.3em} \href{mailto:sreedharun@imre.a-star.edu.sg}{\bfseries sreedharu@hotmail.com}}  \hspace{0.3em}  \faMobile \hspace{0.05em} {\footnotesize\bfseries +65- 85897305}
 
 {\footnotesize \faChain \hspace{0.4em} \href{https://sites.google.com/site/sreedharunnikrishnakurup/home}{\bfseries https://sites.google.com/site/sreedharunnikrishnakurup/home}}
 
@@ -123,9 +125,13 @@
   {}
   \titlespacing{\subsubsubsubsection}
   {0em}{0em}{0em}
-%--------------------------Data to subsection--------------------
+%--------------------------Datedsubsection----------------------
 \newcommand{\datedsubsection}[2]{%
   \paragraph{\color{mygray} \faCalendar \hspace{0.2em} #1 \hfill \faMapMarker \hspace{0.2em} #2}}%
+  
+%--------------------------Grantsubsection----------------------
+\newcommand{\grantsubsection}[2]{%
+  \paragraph{\color{mygray} \faTrophy \hspace{0.2em} #1 \hfill \faCalendar \hspace{0.2em} #2}}%
 %----------------------Language----------------------------------
 \colorlet{languagecolor}{black}
 \colorlet{nolanguagecolor}{gray}

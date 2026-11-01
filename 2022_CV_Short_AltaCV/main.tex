@@ -1,0 +1,112 @@
+
+\documentclass[10pt,a4paper]{altacv}
+
+\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1cm,bottom=1cm}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[default]{lato}
+\usepackage{graphicx}
+
+\definecolor{arsenic}{rgb}{0.23, 0.27, 0.29}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{heading}{arsenic}
+\colorlet{accent}{arsenic}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\begin{document}
+\name{Sreedhar Unnikrishnakurup}
+\tagline{Scientist, Institute of Materials Research and Engineering (IMRE)}
+\photo{3cm}{mypic}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \email{\href{mailto:sreedhar.aie@gmail.com}{sreedhar@alumni.iitm.ac.in}}
+  \phone{+6585897305}
+  \location{Singapore}
+  \linkedin{\href{https://www.linkedin.com/in/sreedhar-unnikrishnakurup-1a318866}{ https://www.linkedin.com/in/sreedhar-unnikrishnakurup-1a318866}}
+}
+
+%% Make the header extend all the way to the right, if you want.
+\begin{fullwidth}
+\makecvheader
+\end{fullwidth}
+
+\cvsection[page1sidebar]{Summary}
+
+\begin{itemize}[leftmargin=0.15in]
+\item Postdoc experience in Infrared Thermal Imaging, X-ray radiography and Computed Tomography (CT), Ray tracing algorithms for X-ray simulation, and CT Reconstruction algorithms.
+\item Ph.D. from University of Montpellier, France in Welding Engineering.
+\item MS from Indian Institute of Technology (IIT) Madras in online monitoring of Weld quality using IRT and X-ray.
+\item Expert practical experience in MATLAB and Python. Fluency in English and B1 level Deutsch.
+\end{itemize}
+
+\cvsection{Experience}
+
+\cvevent{Project Officer}{\href{https://www.cnde.in/research-scholars}{Indian Institute of Technology Madras (IITM)}}{2018 – 2021}{Chennai}
+
+\begin{itemize}
+\item Mid-wave infrared thermal measurement for Testing of materials
+\item Hyperspectral imaging for medicine quality testing 
+\end{itemize}
+
+\divider
+
+\cvevent{Cohort Member}{\href{https://www.joinef.com/}{Entrepreneur First}}{Feb 2020 – May 2020}{Bangalore}
+\begin{itemize}
+\item Explored building a deep-tech startup based on AI-NDT 
+\end{itemize}
+
+\divider
+
+\cvevent{Postdoctoral Scientist}{\href{https://www.bam.de/}{Federal institute for Material Research and Testing (BAM)}}{2016 - 2017}{Berlin}
+\begin{itemize}
+\item Infrared thermal inspection of fiber reinforced composites for energy industry
+\end{itemize}
+
+\divider
+
+\cvevent{Postdoctoral Fellow}{\href{https://www.iitm.ac.in/}{Indian Institute of Technology Madras}}{2014 - 2015}{Chennai}
+\begin{itemize}
+\item Infrared thermal imaging for Advanced Manufacturing Process monitoring, Microstructure based modeling
+\end{itemize}
+
+\divider
+
+\cvevent{Project Associate}{\href{https://www.iitm.ac.in/}{Indian Institute of Technology Madras}}{2007 - 2008}{Chennai}
+\begin{itemize}
+\item Infrared thermal inspection for industrial real-time process monitoring
+\end{itemize}
+
+
+\cvsection{Strengths}
+
+\cvtag{Infrared Thermal imaging}
+\cvtag{Welding Technology}
+\cvtag{Composite Materials}
+\cvtag{NDT }
+\cvtag{Image and Signal Processing}
+\cvtag{X-ray Radiography}
+\cvtag{Computational Simulations}
+
+\clearpage
+
+
+
+%% If the NEXT page doesn't start with a \cvsection but you'd
+%% still like to add a sidebar, then use this command on THIS
+%% page to add it. The optional argument lets you pull up the 
+%% sidebar a bit so that it looks aligned with the top of the
+%% main column.
+% \addnextpagesidebar[-1ex]{page3sidebar}
+
+
+\end{document}

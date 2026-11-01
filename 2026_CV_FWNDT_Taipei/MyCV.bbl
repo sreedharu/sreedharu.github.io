@@ -1,0 +1,570 @@
+\begin{thebibliography}{59}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[\textbf{Sreedhar U}(2014)]{sreedhar2014}
+\textbf{Sreedhar U}.
+\newblock \emph{Static GTAW: experimental and numerical investigations and heat
+  flux parameter estimation}.
+\newblock PhD thesis, Universite Montpellier-II, Montpellier, France, 2014.
+\newblock URL \url{https://bit.ly/2UFQyFi}.
+
+\bibitem[\textbf{Sreedhar U}(2011)]{sreedhar2011}
+\textbf{Sreedhar U}.
+\newblock {Online weld quality monitoring using infrared thermal imaging}.
+\newblock Master's thesis, Indian Institute of Technology Madras, Chennai,
+  India, 2011.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2026)\textbf{Sreedhar U}, Sampath, Tham,
+  Tay, Zheng, Kumar, Thitsartarn, Zhang, and
+  Ngo]{unnikrishnakurup2026multimodal}
+\textbf{Sreedhar U}, Santhakumar Sampath, Zi~Wen Tham, Siok~Wei Tay, Jonathan
+  Zheng, Vinod Kumar, Warintorn Thitsartarn, Lei Zhang, and Andrew Ngo.
+\newblock Multimodal non-destructive evaluation of lightning strike damage in
+  painted {CFRP} laminates: An infrared thermography-based damage index
+  approach with cross-validation.
+\newblock \emph{NDT \& E International}, page 103817, 2026.
+\newblock \href{https://www.sciencedirect.com/science/article/abs/pii/S096386952600188X}{link}.
+
+\bibitem[Wang et~al.(2026)Wang, Luo, Li, Li, Wang, Steele, Solano, Zhu, Yin,
+  Chen, \textbf{Sreedhar U}, Ngo, Wang, Hu, Jia, Shi, Du, Niu, and
+  Hou]{Wang2026NatureEnergy}
+Xi~Wang, Ran Luo, Nengxu Li, Jia Li, Tao Wang, Julian~A. Steele, Eduardo
+  Solano, Zihao Zhu, Xinxing Yin, Jinxi Chen, \textbf{Sreedhar U}, Andrew Ngo,
+  Yuduan Wang, Jingcong Hu, Zhenrong Jia, Zhuojie Shi, Xinyi Du, Xiuxiu Niu,
+  and Yi~Hou.
+\newblock Molecular-templated pre-assembly of self-assembled monolayer for
+  perovskite solar cells and modules with improved reverse-bias stability.
+\newblock \emph{Nature Energy}, pages 1--12, 2026.
+\newblock \href{https://www.nature.com/articles/s41560-026-02014-9}{link}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2025{\natexlab{a}})\textbf{Sreedhar U},
+  Kidangan, Krishnamurthy, Balasubramaniam, and
+  Ngo]{unnikrishnakurup2025assessment}
+\textbf{Sreedhar U}, Renil K~T Kidangan, CV~Krishnamurthy, K~Balasubramaniam,
+  and Andrew Ngo.
+\newblock Assessment of fiber orientation and order in carbon fiber reinforced
+  polymer composites using induction thermography and radon transform analysis.
+\newblock \emph{Composites Part B: Engineering}, 296:\penalty0 112224,
+  2025{\natexlab{a}}.
+\newblock URL \url{https://bit.ly/4c1dzsB}.
+
+\bibitem[Bounenni et~al.(2024)Bounenni, Arbane, Ibarra-Castanedo, Yaddaden,
+  \textbf{Sreedhar U}, Yong, and Maldague]{bounenni2024advanced}
+Leith Bounenni, Mohamed Arbane, Clemente Ibarra-Castanedo, Yacine Yaddaden,
+  \textbf{Sreedhar U}, Andrew N~C Yong, and Xavier Maldague.
+\newblock Advanced defect detection on curved aeronautical surfaces through
+  infrared imaging and deep learning.
+\newblock \emph{NDT}, 2\penalty0 (4):\penalty0 519--531, 2024.
+\newblock URL \url{https://bit.ly/4hi8sW8}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2024)\textbf{Sreedhar U}, Zhang, Seng,
+  Zhang, Pan, Kumar, Zheng, Manzano, and Ngo]{unnikrishnakurup2024exploring}
+\textbf{Sreedhar U}, Zheng Zhang, D~H~Leng Seng, Zhi-qian Zhang, Jisheng Pan,
+  Vinod Kumar, Jonathan Zheng, Carlos Manzano, and Andrew Ngo.
+\newblock Exploring thermal dynamics and porosity of cold-sprayed ti-6al-4v
+  coatings on al6061-t6 substrates: A pulsed thermography and numerical
+  modeling approach.
+\newblock \emph{International Journal of Thermal Sciences}, 196:\penalty0
+  108732, 2024.
+\newblock URL \url{https://bit.ly/4kDFovc}.
+
+\bibitem[T et~al.(2024{\natexlab{a}})T, \textbf{Sreedhar U}, Krishnamurthy, and
+  Balasubramaniam]{kidangan2024uncovering}
+Renil~K T, \textbf{Sreedhar U}, CV~Krishnamurthy, and Krishnan Balasubramaniam.
+\newblock Uncovering the hidden structure: A study on the feasibility of
+  induction thermography for fiber orientation analysis in cfrp composites
+  using 2d-fft.
+\newblock \emph{Composites Part B: Engineering}, 269:\penalty0 111107,
+  2024{\natexlab{a}}.
+\newblock URL \url{https://bit.ly/4igfbB6}.
+
+\bibitem[T et~al.(2024{\natexlab{b}})T, \textbf{Sreedhar U}, Krishnamurthy, and
+  Balasubramaniam]{kidangan2024induction}
+Renil~K T, \textbf{Sreedhar U}, CV~Krishnamurthy, and K~Balasubramaniam.
+\newblock Induction thermography for unidirectional cfrp composites: A novel
+  inspection approach through global current path integration.
+\newblock \emph{Composite Structures}, 327:\penalty0 117678,
+  2024{\natexlab{b}}.
+\newblock URL \url{https://bit.ly/41wBBXL}.
+
+\bibitem[L et~al.(2022)L, \textbf{Sreedhar U}, Abhinandan, Patra, and
+  Balasubramaniam]{Mercy2022}
+Mercy L, \textbf{Sreedhar U}, J~Abhinandan, M~K Patra, and K~Balasubramaniam.
+\newblock Material characterization and thickness measurement of iron particle
+  reinforced polyurethane multi-layer coating for aircraft stealth applications
+  using thz-time domain spectroscopy.
+\newblock \emph{Journal of Infrared, Millimeter, and Terahertz Waves}, 2022.
+\newblock URL \url{https://bit.ly/3vQhipj}.
+
+\bibitem[Kidangan et~al.(2022)Kidangan, Unnikrishnakurup, Krishnamurthy, and
+  Balasubramaniam]{Renil2022}
+Renil~Thomas Kidangan, Sreedhar Unnikrishnakurup, Chitti~Venkata Krishnamurthy,
+  and Krishnan Balasubramaniam.
+\newblock The influence of interlaminar microstructure on the induction heating
+  patterns of cfrp laminates.
+\newblock \emph{Materials Today Communications}, 33:\penalty0 104338, 2022.
+\newblock URL \url{https://bit.ly/41Yc89B}.
+
+\bibitem[Gamdha et~al.(2021)Gamdha, \textbf{Sreedhar U}, and
+  Balasubramaniam]{Dhruv2021}
+D~Gamdha, \textbf{Sreedhar U}, and K~Balasubramaniam.
+\newblock Automated defect recognition on x-ray radiographs of solid propellant
+  using deep learning based on convolutional neural networks.
+\newblock \emph{Journal of Nondestructive Evaluation}, 40\penalty0 (18), 2021.
+\newblock URL \url{https://bit.ly/3aLxA7k}.
+
+\bibitem[G et~al.(2021)G, E, \textbf{Sreedhar U}, Balasubramaniam,
+  Veeraragavan, and Pesala]{Surendra2021}
+Surendra G, Ameen E, \textbf{Sreedhar U}, K~Balasubramaniam, A~Veeraragavan,
+  and B~Pesala.
+\newblock Spectral filtering of sub-bandgap radiation using all-dielectric
+  gratings for thermophotovoltaic applications.
+\newblock \emph{Journal of Photonics for Energy}, 11\penalty0 (1):\penalty0
+  015501, 2021.
+\newblock URL \url{https://bit.ly/3paK9hv}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2020)\textbf{Sreedhar U}, Dash, Ray,
+  Pesala, and Balasubramaniam]{Sreedhar2020}
+\textbf{Sreedhar U}, J~Dash, S~Ray, B~Pesala, and K~Balasubramaniam.
+\newblock Nondestructive evaluation of thermal barrier coating thickness
+  degradation using pulsed {IR} thermography and {THz TDS} measurements: A
+  comparative study.
+\newblock \emph{NDT \& E}, 116:\penalty0 102367, 2020.
+\newblock URL \url{https://bit.ly/2GJUUHw}.
+
+\bibitem[Saini et~al.(2020)Saini, \textbf{Sreedhar U}, Krishnamurthy,
+  Sundararajan, and Balasubramaniam]{Saini2020}
+A~Saini, \textbf{Sreedhar U}, C~V Krishnamurthy, T~Sundararajan, and
+  K~Balasubramaniam.
+\newblock Numerical study using finite element method for heat conduction on
+  heterogeneous material with varying volume fraction, shape and size of filler
+  in matrix.
+\newblock \emph{International Journal of Thermal Sciences}, 159:\penalty0
+  106545, 2020.
+\newblock URL \url{https://bit.ly/31qVIYg}.
+
+\bibitem[Nithin et~al.(2020)Nithin, Kidangan, \textbf{Sreedhar U}, Myrach,
+  Ziegler, and Balasubramaniam]{puthiyaveettil2020}
+P~V Nithin, R~T Kidangan, \textbf{Sreedhar U}, P~Myrach, M~Ziegler, and
+  K~Balasubramaniam.
+\newblock Laser line scanning thermography for surface breaking crack
+  detection: modeling and experimental study.
+\newblock \emph{Infrared Physics \& Technology}, 104:\penalty0 103141, 2020.
+\newblock URL \url{https://bit.ly/2YvQJ7h}.
+
+\bibitem[Nithin et~al.(2019)Nithin, Kidangan, \textbf{Sreedhar U}, Rajagopal,
+  Prabhakar, Padmanabham, and Balasubramaniam]{Nithin2019}
+P~V Nithin, R~T Kidangan, \textbf{Sreedhar U}, P~Rajagopal, K~V~Phani
+  Prabhakar, G~Padmanabham, and K~Balasubramaniam.
+\newblock Numerical model and experimental validation for the on-line
+  monitoring of cold metal transfer joining of aluminium to galvanized steel.
+\newblock \emph{International Journal of Advanced Manufacturing Technology},
+  104:\penalty0 4365--4375, 2019.
+\newblock URL \url{https://bit.ly/2AnbYQF}.
+
+\bibitem[Maierhofer et~al.(2018)Maierhofer, Krankenhagen, Roellig,
+  \textbf{Sreedhar U}, Monte, Adibekyan, Gutschwager, Knazowicka, Blahut, and
+  Gower]{maierhofer2018}
+C~Maierhofer, R~Krankenhagen, M~Roellig, \textbf{Sreedhar U}, C~Monte,
+  A~Adibekyan, B~Gutschwager, L~Knazowicka, A~Blahut, and M~Gower.
+\newblock Influence of thermal and optical material properties on the
+  characterization of defects in fiber reinforced composites with active
+  thermography methods.
+\newblock \emph{tm-Technisches Messen}, 85\penalty0 (1):\penalty0 13--27, 2018.
+\newblock URL \url{https://bit.ly/3hswSOI}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2017)\textbf{Sreedhar U}, Rouquette,
+  Souli{\'e}, and Fras]{unnikrishnakurup2017}
+\textbf{Sreedhar U}, S~Rouquette, F~Souli{\'e}, and G~Fras.
+\newblock Estimation of heat flux parameters during static gas tungsten arc
+  welding spot under argon shielding.
+\newblock \emph{International Journal of Thermal Sciences}, 114:\penalty0
+  205--212, 2017.
+\newblock URL \url{https://bit.ly/3d10rnl}.
+
+\bibitem[Kidangan et~al.(2017)Kidangan, \textbf{Sreedhar U}, Nithin,
+  Balasubramaniam, Rajagopal, Prabhakar, Padmanabham, Riedel, and
+  Puschmann]{thomas2017}
+R~T Kidangan, \textbf{Sreedhar U}, PV~Nithin, K~Balasubramaniam, P~Rajagopal,
+  KV~Phani Prabhakar, G~Padmanabham, F~Riedel, and M~Puschmann.
+\newblock Online monitoring of cold metal transfer {(CMT)} process using
+  infrared thermography.
+\newblock \emph{Quantitative InfraRed Thermography Journal}, 14\penalty0
+  (1):\penalty0 68--78, 2017.
+\newblock URL \url{https://bit.ly/2zyzWrI}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2016)\textbf{Sreedhar U}, Krishnamurthy,
+  and Balasubramaniam]{sreedhar2016}
+\textbf{Sreedhar U}, CV~Krishnamurthy, and K~Balasubramaniam.
+\newblock Monitoring tig welding using infrared thermography--simulations and
+  experiments.
+\newblock \emph{Przegl{\k{a}}d Elektrotechniczny}, 92\penalty0 (4):\penalty0
+  6--9, 2016.
+\newblock URL \url{https://bit.ly/2UGtp5I}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2012{\natexlab{a}})\textbf{Sreedhar U},
+  Krishnamurthy, Balasubramaniam, Raghupathy, and Ravisankar]{sreedhar2012}
+\textbf{Sreedhar U}, CV~Krishnamurthy, K~Balasubramaniam, VD~Raghupathy, and
+  S~Ravisankar.
+\newblock Automatic defect identification using thermal image analysis for
+  online weld quality monitoring.
+\newblock \emph{Journal of Materials Processing Technology}, 212\penalty0
+  (7):\penalty0 1557--1566, 2012{\natexlab{a}}.
+\newblock URL \url{https://bit.ly/3d5JMiA}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2025{\natexlab{b}})\textbf{Sreedhar U},
+  Sharma, Feng, Zheng, Kumar, Manzano, Wong, and
+  Ngo]{unnikrishnakurup2025lockin}
+\textbf{Sreedhar U}, M.~Sharma, A.~Feng, J.~Zheng, V.~Kumar, C.~Manzano,
+  Z.~Wong, and A.~Ngo.
+\newblock Lock-in thermography and machine learning-based defect detection in
+  carbon fiber reinforced thermoplastics.
+\newblock In \emph{Singapore International NDT Conference \& Exhibition}.
+  e-Journal of Nondestructive Testing, February 2025{\natexlab{b}}.
+\newblock URL \url{https://www.ndt.net/?id=30843}.
+\newblock Held on 27 - 28 February 2025.
+
+\bibitem[Zheng et~al.(2024)Zheng, Kumar, \textbf{Sreedhar U}, Manzano,
+  Ebrahimkhani, Tuan, Anh, Cheung, and Ngo]{zheng2024multispectral}
+J~Zheng, V~Kumar, \textbf{Sreedhar U}, C~Manzano, S~Ebrahimkhani, VV~Tuan,
+  LH~Anh, N-M Cheung, and ACY Ngo.
+\newblock Multispectral and hyperspectral infrared imaging for plastic waste
+  sorting and recycling.
+\newblock In \emph{Thermosense: Thermal Infrared Applications XLVI}, volume
+  13047, pages 53--62, 2024.
+\newblock URL \url{https://doi.org/10.1117/12.3013731}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2023{\natexlab{a}})\textbf{Sreedhar U},
+  Kidangan, Krishnamurthy, and
+  Balasubramaniam]{unnikrishnakurup2023characterizing}
+\textbf{Sreedhar U}, Renil~Thomas Kidangan, CV~Krishnamurthy, and Krishnan
+  Balasubramaniam.
+\newblock Characterizing fiber orientations and layer stacking sequences in
+  cfrp laminates through induction heating patterns: a nondestructive approach.
+\newblock In \emph{Proceedings of 4th Asian Quantitative InfraRed Thermography
+  Conference Characterizing}, 2023{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.21611/qirt.2023.17}.
+
+\bibitem[Gnessougou et~al.(2023)Gnessougou, Unnikrishnakurup, Ngo Chun~Yong,
+  Servais, Ibarra-Castanedo, and Maldague]{gnessougoucurved}
+S.O.A. Gnessougou, S.~Unnikrishnakurup, A.~Ngo Chun~Yong, P.~Servais,
+  C.~Ibarra-Castanedo, and X.~P.~V. Maldague.
+\newblock Curved cfrp specimen: Thermographic inspection and simulation.
+\newblock In \emph{Proceedings of 4th Asian Quantitative InfraRed Thermography
+  Conference Characterizing}, 2023.
+\newblock URL \url{https://doi.org/10.21611/qirt.2023.22}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2023{\natexlab{b}})\textbf{Sreedhar U},
+  Kumar, Zheng, Manzano, and Ngo]{unnikrishnakurup1exploring}
+\textbf{Sreedhar U}, Vinod Kumar, Jonathan Zheng, Carlos Manzano, and Andrew
+  Ngo.
+\newblock Exploring ambient influences on infrared thermography: A study on
+  concrete delam-ination detection and solar loading.
+\newblock In \emph{Proceedings of 4th Asian Quantitative InfraRed Thermography
+  Conference Characterizing}, 2023{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.21611/qirt.2023.21}.
+
+\bibitem[Kumara et~al.(2022)Kumara, Manzano, \textbf{Sreedhar U}, Zheng, and
+  Ngob]{kumara2022dynamic}
+Vinod Kumara, Carlos Manzano, \textbf{Sreedhar U}, Jonathan Zheng, and Andrew
+  Ngob.
+\newblock Dynamic inspection of surface-breaking defects using induction
+  thermography.
+\newblock In \emph{Singapore International Non-destructive Testing Conference
+  and Exhibition (SINCE2022)}, Singapore, November 2022.
+\newblock URL \url{https://doi.org/10.58286/27534}.
+
+\bibitem[Zheng et~al.(2022)Zheng, Manzano, \textbf{Sreedhar U}, Kumar, and
+  Ngo]{zheng2022using}
+Jonathan Zheng, Carlos Manzano, \textbf{Sreedhar U}, Vinod Kumar, and Andrew
+  Ngo.
+\newblock Using hyperspectral imaging as a non-destructive method to discern
+  artworks.
+\newblock In \emph{Singapore International Non-destructive Testing Conference
+  and Exhibition (SINCE2022)}, Singapore, November 2022.
+\newblock URL \url{https://doi.org/10.58286/27551}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2022{\natexlab{a}})\textbf{Sreedhar U},
+  Zheng, Kumar, Manzano, and Ngo]{unnikrishnakurup2022crack}
+\textbf{Sreedhar U}, Jonathan Zheng, Vinod Kumar, Carlos Manzano, and Andrew
+  Ngo.
+\newblock Crack detection in metallic components with varying surface
+  characteristics using laser spot scanning thermography.
+\newblock In \emph{Singapore International Non-destructive Testing Conference
+  and Exhibition (SINCE2022)}, Singapore, November 2022{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.58286/27536}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2022{\natexlab{b}})\textbf{Sreedhar U}, J,
+  C, and C]{Sreeconf2022}
+\textbf{Sreedhar U}, Zheng J, Manzano C, and Ngo C, Y.
+\newblock Numerical and experimental investigations of pulsed infrared
+  thermography for damage detection in honeycomb sandwich composites.
+\newblock In \emph{16th Quantitative Infrared Thermography Conference}, Paris,
+  France, July 2022{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.21611/qirt.2022.2025}.
+
+\bibitem[Dash et~al.(2020)Dash, \textbf{Sreedhar U}, Pesala, and
+  Balasubramaniam]{Jyoticonf2020}
+J~Dash, \textbf{Sreedhar U}, B~Pesala, and K~Balasubramaniam.
+\newblock Material parameters and thickness determination of thermal barrier
+  coatings using terahertz time domain spectroscopy.
+\newblock In \emph{Virtual Conference and Exhibition on Nondestructive
+  Evaluation (NDE)}, Virtual, December 2020.
+\newblock URL \url{https://www.ndt.net/?id=26534}.
+
+\bibitem[G et~al.(2020)G, E, Veeraraghavan, \textbf{Sreedhar U},
+  Balasubramaniam, and Pesala]{Surendraconf2020}
+Surendra G, Ameen E, A~Veeraraghavan, \textbf{Sreedhar U}, K~Balasubramaniam,
+  and B~Pesala.
+\newblock High contrast grating based broadband thermal filters for
+  thermophotovoltaic applications.
+\newblock In \emph{SPIE. Photonic West OPTO}, San Francisco, US, February 2020.
+
+\bibitem[Gamdha et~al.(2019)Gamdha, Dwarakanath, \textbf{Sreedhar U}, and
+  Balasubramaniam]{Dhruv2019}
+D~Gamdha, S~Dwarakanath, \textbf{Sreedhar U}, and K~Balasubramaniam.
+\newblock Simulation assisted annotated xray image data generation for deep
+  learning applications.
+\newblock In \emph{National Seminar and Exhibition on Non-Destructive
+  Evaluation NDE}, Bangalore, India, December 2019.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2019)\textbf{Sreedhar U}, Dash, Pesala, and
+  Balasubramaniam]{Sreedharconf2020}
+\textbf{Sreedhar U}, J~Dash, B~Pesala, and K~Balasubramaniam.
+\newblock Non-destructive evaluation of thermal barrier coating thickness
+  degradation using pulse phase thermography and {THz-TDS}.
+\newblock In \emph{11th International Symposium on NDT in Aerospace},
+  Paris-Saclay, France, November 2019.
+\newblock URL \url{https://bit.ly/2ZDVsEn}.
+
+\bibitem[Krishna et~al.(2018)Krishna, \textbf{Sreedhar U}, and
+  Balasubramaniam]{Sruthiconf2018}
+S~Krishna, \textbf{Sreedhar U}, and K~Balasubramaniam.
+\newblock Evaluation of thermal barrier coating thickness using pulsed
+  thermography experiments and numerical simulations.
+\newblock In \emph{National Seminar and Exhibition on Non-Destructive
+  Evaluation NDE}, Mumbai, India, December 2018.
+
+\bibitem[Nithin et~al.(2018)Nithin, Kidangan, \textbf{Sreedhar U}, C, Zeigler,
+  Myrach, and Balasubramaniam]{Nithinconf2018}
+P~V Nithin, R~T Kidangan, \textbf{Sreedhar U}, Krishnamurthy C, V, M~Zeigler,
+  P~Myrach, and K~Balasubramaniam.
+\newblock Numerical study of laser line thermography for crack detection at
+  elevated temperature.
+\newblock In \emph{14th Quantitative Infrared Thermography Conference}, Berlin,
+  Germany, June 2018.
+\newblock URL \url{https://bit.ly/2VLk0u8}.
+
+\bibitem[Maierhofer et~al.(2017)Maierhofer, Krankenhagen, Röllig,
+  \textbf{Sreedhar U}, Monte, Adibekyan, Gutschwager, Kanzowicka, Blahut,
+  M~R~L, Lodeiro, G, and A]{Maierhoferconf2018}
+C~Maierhofer, R~Krankenhagen, M~Röllig, \textbf{Sreedhar U}, C~Monte,
+  A~Adibekyan, B~Gutschwager, L~Kanzowicka, A~Blahut, Gower M~R~L, M~Lodeiro,
+  Baker G, and Aktas A.
+\newblock Einfluss thermischer und optischer materialeigenschaften auf die
+  charakterisierung von fehlstellen in faserverbund-werkstoffenmit aktiven
+  thermografieverfahren.
+\newblock In \emph{Temperature}, Berlin, Germany, May 2017.
+\newblock URL \url{https://bit.ly/2C7nJuS}.
+
+\bibitem[Krishna et~al.(2017)Krishna, Nithin, Kidangan, \textbf{Sreedhar U},
+  Zeigler, Myrach, Balasubramaniam, and P]{Krishnaconf2017}
+S~Krishna, P~V Nithin, R~T Kidangan, \textbf{Sreedhar U}, M~Zeigler, P~Myrach,
+  K~Balasubramaniam, and Biju P.
+\newblock Raw data-based image processing algorithm for fast detection of
+  surface breaking cracks.
+\newblock In \emph{43rd Annual Review of Progress in Quantitative
+  Nondestructive Evaluation, AIP Conference Proceedings}, Atlanta, Georgia, US,
+  July 2017.
+\newblock URL \url{https://bit.ly/3e2aEQW}.
+
+\bibitem[Kidangan et~al.(2016{\natexlab{a}})Kidangan, \textbf{Sreedhar U},
+  Balasubramaniam, Narayanan, and Phanikumar]{Renilconf2016}
+R~T Kidangan, \textbf{Sreedhar U}, K~Balasubramaniam, L~Narayanan, and
+  G~Phanikumar.
+\newblock Dissimilar metal joint quality measurement using infrared
+  thermography: Experimental and numerical approach for the application to cmt
+  welding.
+\newblock In \emph{Quantitative InfraRed Thermography}, Gdańsk, Poland, July
+  2016{\natexlab{a}}.
+\newblock URL \url{https://bit.ly/3e1f8Y7}.
+
+\bibitem[Nithin et~al.(2016)Nithin, Krishna, Kidangan, \textbf{Sreedhar U},
+  Krishnamurthy, Zeigler, Myrach, and Balasubramaniam]{Nithinconf2016}
+P~V Nithin, S~Krishna, R~T Kidangan, \textbf{Sreedhar U}, C~V Krishnamurthy,
+  M~Zeigler, P~Myrach, and K~Balasubramaniam.
+\newblock In-line laser thermography for crack detection at elevated
+  temperature: A numerical modeling study.
+\newblock In \emph{Quantitative InfraRed Thermography}, Gdańsk, Poland, July
+  2016.
+\newblock URL \url{https://bit.ly/2Z0CBV2}.
+
+\bibitem[Polomski et~al.(2016)Polomski, Myrach, Le~Claire, \textbf{Sreedhar U},
+  Nithin, Balasubramaniam, and Ziegler]{Polomskiconf2016}
+B~Polomski, P~Myrach, E~Le~Claire, \textbf{Sreedhar U}, P~V Nithin,
+  K~Balasubramaniam, and M~Ziegler.
+\newblock Thermographic crack detection in hot steel surface.
+\newblock In \emph{19th World Conference on Non-destructive Testing (WCNDT)},
+  Munich, Germany, June 2016.
+\newblock URL \url{https://bit.ly/3grMvER}.
+
+\bibitem[Kidangan et~al.(2016{\natexlab{b}})Kidangan, \textbf{Sreedhar U},
+  Nithin, Balasubramaniam, Rajagopal, Phani~Prabhakar, and
+  Padmanabham]{Kidanganconf2016}
+R~T Kidangan, \textbf{Sreedhar U}, P~V Nithin, K~Balasubramaniam, P~Rajagopal,
+  V~Phani~Prabhakar, K, and G~Padmanabham.
+\newblock Application of infrared thermography technique for the monitoring of
+  cold metal transfer (cmt) joining of aluminium to galvanized steel.
+\newblock In \emph{19th World Conference on Non-destructive Testing (WCNDT)},
+  Munich, Germany, June 2016{\natexlab{b}}.
+\newblock URL \url{https://bit.ly/2NYJqQp}.
+
+\bibitem[S et~al.(2015{\natexlab{a}})S, \textbf{Sreedhar U}, Natarajan,
+  Krishnamurthy, and Balasubramaniam]{Shivaprasadconf2015}
+Shivaprasad S, \textbf{Sreedhar U}, S~Natarajan, C~V Krishnamurthy, and
+  K~Balasubramaniam.
+\newblock 3d elastic wave propagation and heat diffusion studies using
+  polycrystalline material models.
+\newblock In \emph{National Seminar and Exhibition on Non-Destructive
+  Evaluation NDE}, Hyderabad, India, November 2015{\natexlab{a}}.
+\newblock URL \url{https://bit.ly/2NYasaM}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2015{\natexlab{a}})\textbf{Sreedhar U},
+  Nithin, Krishnamurthy, Zeigler, Myrach, and
+  Balasubramaniam]{Sreedharconf2015}
+\textbf{Sreedhar U}, P~V Nithin, C~V Krishnamurthy, M~Zeigler, P~Myrach, and
+  K~Balasubramaniam.
+\newblock The effect of surface breaking crack orientation in detection
+  capability: A laser thermography numerical modeling approach.
+\newblock In \emph{National Seminar and Exhibition on Non-Destructive
+  Evaluation NDE}, Hyderabad, India, November 2015{\natexlab{a}}.
+
+\bibitem[S et~al.(2015{\natexlab{b}})S, \textbf{Sreedhar U}, Krishnamurthy, and
+  Balasubramaniam]{Shivaprasadcomsolconf2015}
+Shivaprasad S, \textbf{Sreedhar U}, C~V Krishnamurthy, and K~Balasubramaniam.
+\newblock Elastic wave propagation and heat diffusion studies in
+  polycrystalline material.
+\newblock In \emph{Comsol Conference}, Pune, India, October 2015{\natexlab{b}}.
+\newblock URL \url{https://bit.ly/2BE2YqQ}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2015{\natexlab{b}})\textbf{Sreedhar U},
+  Krishnamurthy, and Balasubramaniam]{SreedharQIRTconf2015}
+\textbf{Sreedhar U}, C~V Krishnamurthy, and K~Balasubramaniam.
+\newblock Heat diffusion in polycrystalline materials- a microstructure-based
+  material model.
+\newblock In \emph{Quantitative InfraRed Thermography Conference QIRT-Asia},
+  Mahabalipuram, India, July 2015{\natexlab{b}}.
+\newblock URL \url{https://bit.ly/2BEf0R1}.
+
+\bibitem[Szymznik et~al.(2015)Szymznik, \textbf{Sreedhar U}, Chady, and
+  Balasubramaniam]{SzymznikQIRTconf2015}
+B~Szymznik, \textbf{Sreedhar U}, T~Chady, and K~Balasubramaniam.
+\newblock Numerical analysis of heat sink effect in the infrared inspection of
+  composites.
+\newblock In \emph{Quantitative InfraRed Thermography Conference QIRT-Asia},
+  Mahabalipuram, India, July 2015.
+\newblock URL \url{https://bit.ly/3dZVz2m}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2015{\natexlab{c}})\textbf{Sreedhar U},
+  Nithinn, Krishnamurthy, Zeigler, Myrach, and
+  Balasubramaniam]{SreeQIRTconf2015}
+\textbf{Sreedhar U}, P~V Nithinn, C~V Krishnamurthy, M~Zeigler, P~Myrach, and
+  K~Balasubramaniam.
+\newblock In-line laser thermography for crack detection: A numerical approach.
+\newblock In \emph{Quantitative InfraRed Thermography Conference QIRT-Asia},
+  Mahabalipuram, India, July 2015{\natexlab{c}}.
+\newblock URL \url{https://bit.ly/3iwPe1F}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2015{\natexlab{d}})\textbf{Sreedhar U},
+  Balasubramaniam, Gollapudi, and Kuchibhatla]{SreeSGRconf2015}
+\textbf{Sreedhar U}, K~Balasubramaniam, S~Gollapudi, and S~Kuchibhatla.
+\newblock Non-destructive evaluation of seams and composites at iit madras.
+\newblock In \emph{Research seminar SAINT-GOBAIN University Day}, Paris,
+  France, June 2015{\natexlab{d}}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2015{\natexlab{e}})\textbf{Sreedhar U},
+  Krishnamurthy, and Balasubramaniam]{SreePolandconf2015}
+\textbf{Sreedhar U}, C~V Krishnamurthy, and K~Balasubramaniam.
+\newblock Monitoring tig welding using infrared thermography- simulations and
+  experiments.
+\newblock In \emph{XVIII International Symposium on Theoretical Electrical
+  Engineering ISTET'15 \& Symposium on Electromagnetic Evaluation of Materials
+  SEEM'15}, Kolobrzeg, Poland, June 2015{\natexlab{e}}.
+\newblock URL \url{https://bit.ly/38v5USQ}.
+
+\bibitem[Chady et~al.(2015)Chady, Yijin, and \textbf{Sreedhar
+  U}]{Chadyconf2015}
+T~Chady, Li~Yijin, and \textbf{Sreedhar U}.
+\newblock Evaluation of thz systems for composite structures inspection.
+\newblock In \emph{XVIII International Symposium on Theoretical Electrical
+  Engineering ISTET'15 \& Symposium on Electromagnetic Evaluation of Materials
+  SEEM'15}, Kolobrzeg, Poland, June 2015.
+\newblock URL \url{https://bit.ly/3f0p9WN}.
+
+\bibitem[Szymanik et~al.(2014)Szymanik, \textbf{Sreedhar U}, and
+  Balasubramaniam]{Barbaraconf2014}
+B~Szymanik, \textbf{Sreedhar U}, and K~Balasubramaniam.
+\newblock Background removal in thermographic non-destructive testing of
+  composite materials.
+\newblock In \emph{National Seminar and Exhibition on Non-Destructive
+  Evaluation NDE}, Pune, India, December 2014.
+\newblock URL \url{https://bit.ly/2NWtA95}.
+
+\bibitem[Rouquette et~al.(2014)Rouquette, Soulie, and \textbf{Sreedhar
+  U}]{Rouquetteconf2014}
+S~Rouquette, F~Soulie, and \textbf{Sreedhar U}.
+\newblock Gaussian heat flux parameter estimation during a gtaw operation.
+  international conference on inverse problems in engineering.
+\newblock In \emph{International conference on inverse problems in
+  engineering}, Krakow, Poland, May 2014.
+\newblock URL \url{https://bit.ly/3f32hFR}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2013)\textbf{Sreedhar U}, Rouquette,
+  Soulie, and Fras]{Sreedharconf2013}
+\textbf{Sreedhar U}, S~Rouquette, F~Soulie, and G~Fras.
+\newblock Estimation of the heat flux exchanged between argon electrical arc
+  plasma and stainless steel anode: application to gtaw experiment.
+\newblock In \emph{4th International Symposium on Inverse Problems, Design and
+  Optimization (IPDO)}, Albi, France, June 2013.
+\newblock URL \url{https://bit.ly/3dW2461}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2012{\natexlab{b}})\textbf{Sreedhar U},
+  Rouquette, Soulie, and Fras]{Sreedharconf2012}
+\textbf{Sreedhar U}, S~Rouquette, F~Soulie, and G~Fras.
+\newblock Multi-physics modeling of gtaw process and experimental validation
+  for investigating the weld pool formation.
+\newblock In \emph{International seminar Numerical Analysis of weldability},
+  Graz, Austria, September 2012{\natexlab{b}}.
+\newblock URL \url{https://bit.ly/2YXEbaa}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2012{\natexlab{c}})\textbf{Sreedhar U},
+  Rouquette, Soulie, and Fras]{SreedharNconf2012}
+\textbf{Sreedhar U}, S~Rouquette, F~Soulie, and G~Fras.
+\newblock Multi-physics modeling of gtaw process.
+\newblock In \emph{La Journée conference des doctorants de l’I2S (DOCTISS),
+  The Graduate School for Information, Structures and Systems Sciences (I2S)},
+  Montpellier, France, June 2012{\natexlab{c}}.
+
+\bibitem[Rouquette et~al.(2011)Rouquette, \textbf{Sreedhar U}, Soulie, and
+  Fras]{Rouquetteconf2011}
+S~Rouquette, \textbf{Sreedhar U}, F~Soulie, and G~Fras.
+\newblock Heat flux parameter estimation by the levenberg-marquardt method:
+  Application to the gas tungsten arc welding.
+\newblock In \emph{International seminar in Inverse Problems. University of
+  Cambridge}, London, UK, December 2011.
+\newblock URL \url{https://bit.ly/2NTJbq1}.
+
+\bibitem[\textbf{Sreedhar U} et~al.(2009)\textbf{Sreedhar U}, Krishnamurthy,
+  Balasubramaniam, V, and S]{Sreedharconf2009}
+\textbf{Sreedhar U}, C~V Krishnamurthy, K~Balasubramaniam, Reghupathi V, and
+  Ravisankar S.
+\newblock Modeling and simulation for temperature prediction in welding using
+  infrared thermography.
+\newblock In \emph{National Seminar NDE}, Trichy, India, December 2009.
+\newblock URL \url{https://bit.ly/31KyuOw}.
+
+\end{thebibliography}
