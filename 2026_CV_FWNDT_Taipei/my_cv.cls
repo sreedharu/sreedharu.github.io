@@ -65,6 +65,8 @@
 % load external fonts
 
  %----------------------------------------------------------------
+\newcommand{\thedob}{29 Aug 1984}
+\newcommand{\dob}[1]{\renewcommand{\thedob}{#1}}
 \renewcommand{\maketitle}{
 {\Huge\raggedright\bfseries
 \theauthor}
@@ -75,7 +77,11 @@
 
 \vspace{.1em}
 
-{\normalsize\bfseries Institute of Materials Research and Engineering (IMRE)}
+{\normalsize\bfseries \href{https://www.a-star.edu.sg/imre/feat}{Future Energy Acceleration and Translation (FEAT) Centre}}
+
+\vspace{.1em}
+
+{\normalsize\bfseries Institute of Materials Research and Engineering (IMRE), A*STAR}
 
 \vspace{.2em}
 
@@ -87,7 +93,7 @@
 
 {\footnotesize \faLinkedin \hspace{0.5em} \href{https://www.linkedin.com/in/sreedhar-unnikrishnakurup-1a318866}{\bfseries https://www.linkedin.com/in/sreedhar-unnikrishnakurup-1a318866}}
 
-{\footnotesize \faGlobe \hspace{0.5em} \href{https://orcid.org/0000-0001-6186-7562}{\bfseries https://orcid.org/0000-0001-6186-7562}}
+{\footnotesize \faGlobe \hspace{0.5em} \href{https://orcid.org/0000-0001-6186-7562}{\bfseries https://orcid.org/0000-0001-6186-7562}} \hspace{0.6em} {\footnotesize \faCalendar \hspace{0.3em} \bfseries DOB: \thedob}
 
 {\footnotesize \faGraduationCap \hspace{0.1em} H-index: \textbf{12}: \href{https://scholar.google.com/citations?user=rgeu6SAAAAAJ\&hl=en}{\bfseries https://scholar.google.com/citations?user=rgeu6SAAAAAJ\&hl=en}}
 }
@@ -102,7 +108,7 @@
   {0em}{0.25em}{0em}
 %--------------------------Subsection --------------------------
   \titleformat{\subsection}
-  {\Large\raggedright}
+  {\Large\raggedright\hypersetup{urlcolor=black}}
   {}
   {0em}
   {}
@@ -110,7 +116,7 @@
   {0em}{0.25em}{0.5em}
 %-----------------------------Subsubsection---------------
   \titleformat{\subsubsection}
-  {\normalsize\raggedright\bfseries}
+  {\normalsize\raggedright\bfseries\hypersetup{urlcolor=black}}
   {}
   {0em}
   {}

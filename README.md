@@ -35,9 +35,9 @@ I am a **Senior Scientist** in the Structural Materials Department at the **Inst
 
 ---
 
-## CV & Cover Letter Archive
+## CV Archive
 
-All LaTeX CV sources and compiled PDFs are organized chronologically using the convention `YYYY_<Type>_<Target_or_Purpose>`:
+All LaTeX CV sources and compiled PDFs are organized chronologically using the convention `YYYY_CV_<Target_or_Purpose>` (cover letters are stored in [`../coverletter`](../coverletter)):
 
 | Folder | Year | Format | Description |
 | :--- | :---: | :--- | :--- |
@@ -54,7 +54,6 @@ All LaTeX CV sources and compiled PDFs are organized chronologically using the c
 | [`2023_CV_SAFRAN`](./2023_CV_SAFRAN) | 2023 | Full CV (`my_cv.cls`) | SAFRAN version |
 | [`2023_CV_SAFRAN_CND`](./2023_CV_SAFRAN_CND) | 2023 | Full CV (`my_cv.cls`) | SAFRAN CND (English) version |
 | [`2023_CV_SAFRAN_CND_French`](./2023_CV_SAFRAN_CND_French) | 2023 | Full CV (`my_cv.cls`) | SAFRAN CND (French) version |
-| [`2023_CoverLetter_Zeiss`](./2023_CoverLetter_Zeiss) | 2023 | Cover Letter (`cover.cls`) | Cover letter for ZEISS SMT |
 | [`2022_CV_Proposal`](./2022_CV_Proposal) | 2022 | Grant CV (`my_cv.cls`) | Condensed CV for grant proposals |
 | [`2022_CV_Short_AltaCV`](./2022_CV_Short_AltaCV) | 2022 | Short CV (`altacv.cls`) | 2-page two-column sidebar resume |
 | [`2021_CV_ASTAR`](./2021_CV_ASTAR) | 2021 | Full CV (`my_cv.cls`) | A\*STAR IMRE application version |
